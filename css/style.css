@@ -430,6 +430,8 @@ a:hover, a:active {
 }
 .list-with-title .listing .listing-post a {
   color: #8F8F8F;
+  font-size: 1rem;
+  padding-left: 28px;
 }
 .list-with-title .listing .listing-post a:hover {
   color: #4786D6;
