@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.xiaozhanhua.com/about/index.html</loc>
+    
+    <lastmod>2019-02-03T08:55:03.532Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.xiaozhanhua.com/2016/12/31/2016-summary/</loc>
     
     <lastmod>2019-02-03T07:17:48.695Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>http://blog.xiaozhanhua.com/README.html</loc>
     
     <lastmod>2019-01-12T16:32:16.546Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.xiaozhanhua.com/about/index.html</loc>
-    
-    <lastmod>2019-01-12T16:21:14.972Z</lastmod>
     
   </url>
   

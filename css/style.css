@@ -128,7 +128,7 @@ a:hover, a:active {
   list-style: none;
   padding: 18px 30px;
   float: left;
-  font-size: 12px;
+  font-size: 0.8rem;
 }
 .page-top .nav li {
   position: relative;
