@@ -122,11 +122,11 @@ a:hover, a:active {
   z-index: 3;
   background-color: #fff;
   height: 60px;
-  border-bottom: 1px solid #f2f2f2;
+  border-bottom: 1px solid #e4e4e4;
 }
 .page-top .nav {
   list-style: none;
-  padding: 18px 30px;
+  padding: 18px 20px;
   float: left;
   font-size: 0.8rem;
 }
@@ -139,12 +139,13 @@ a:hover, a:active {
   color: #5A5A5A;
 }
 .page-top .nav a:hover {
-  color: #4786D6;
+  /*color: #4786D6;*/
 }
 .page-top .nav a.current {
-  color: #5A5A5A;
-  padding-bottom: 22px;
-  border-bottom: 1px solid #5A5A5A;
+  background: #999797;
+  padding: 4px 10px;
+  border-radius: 2px;
+  color: #fff;
 }
 .page-top .information {
   float: right;
@@ -198,18 +199,18 @@ a:hover, a:active {
   font-weight: bold;
   letter-spacing: 2px;
   line-height: 1;
-  margin: 0;
+  margin: 8px;
 }
 .sidebar .logo-title .title a {
   text-decoration: none;
   color: #464646;
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: bold;
 }
 .sidebar .social-links {
   list-style: none;
   padding: 0;
-  font-size: 14px;
+  font-size: 28px;
   text-align: center;
 }
 .sidebar .social-links i {
@@ -278,7 +279,7 @@ a:hover, a:active {
 }
 .post .post-footer {
   padding: 0 0 30px 0;
-  border-bottom: 1px solid #f2f2f2;
+  border-bottom: 1px solid #e4e4e4;
 }
 .post .post-footer .meta {
   max-width: 100%;
@@ -382,7 +383,7 @@ a:hover, a:active {
 .footer {
   clear: both;
   text-align: center;
-  font-size: 10px;
+  font-size: 12px;
   margin: 0 auto;
   bottom: 0;
   position: absolute;
@@ -657,7 +658,7 @@ a.btn {
     z-index: 1;
   }
   .sidebar .logo-title {
-    padding-top: 120px;
+    padding-top: 100px;
   }
   .sidebar .logo-title .title img {
     width: 100px;
@@ -675,7 +676,7 @@ a.btn {
   }
 
   .content {
-    margin-top: 420px;
+    margin-top: 380px;
     width: 100%;
     z-index: 2;
     position: absolute;
