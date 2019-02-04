@@ -434,6 +434,10 @@ a:hover, a:active {
 .list-with-title .listing .listing-post a:hover {
   color: #128b55;
 }
+.list-with-title .listing .listing-post .date{
+  display: inline-block;
+  width: 40px;
+}
 
 /* share */
 .share {
@@ -632,6 +636,9 @@ a.btn {
 .page_404 {
   text-align: center;
   padding-top: 50px;
+}
+ol{
+  padding-inline-start: 20px;
 }
 
 @media screen and (max-width: 960px) {
