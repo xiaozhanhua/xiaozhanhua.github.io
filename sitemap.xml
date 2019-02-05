@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.xiaozhanhua.com/tags/index.html</loc>
+    
+    <lastmod>2019-02-05T08:55:43.414Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.xiaozhanhua.com/2018/12/31/2018-summary/</loc>
+    
+    <lastmod>2019-02-05T08:55:08.825Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.xiaozhanhua.com/2016/12/31/2016-summary/</loc>
+    
+    <lastmod>2019-02-05T08:54:38.788Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.xiaozhanhua.com/links/index.html</loc>
     
     <lastmod>2019-02-03T16:03:22.822Z</lastmod>
@@ -23,13 +44,6 @@
   </url>
   
   <url>
-    <loc>http://blog.xiaozhanhua.com/2016/12/31/2016-summary/</loc>
-    
-    <lastmod>2019-02-03T07:17:48.695Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://blog.xiaozhanhua.com/2016/12/20/hello/</loc>
     
     <lastmod>2019-02-03T07:15:42.202Z</lastmod>
@@ -37,23 +51,9 @@
   </url>
   
   <url>
-    <loc>http://blog.xiaozhanhua.com/2018/12/31/2018-summary/</loc>
-    
-    <lastmod>2019-02-03T06:34:44.556Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://blog.xiaozhanhua.com/README.html</loc>
     
     <lastmod>2019-01-12T16:32:16.546Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.xiaozhanhua.com/tags/index.html</loc>
-    
-    <lastmod>2016-12-12T05:42:35.333Z</lastmod>
     
   </url>
   
