@@ -152,7 +152,12 @@ a:hover, a:active {
   padding-right: 20px;
 }
 .page-top .information .avatar {
-  float: right;
+  position: absolute;
+  top: 50%;
+  bottom: 0;
+  right: 12px;
+  transform: translateY(-50%);
+  font-size: 26px;
 }
 .page-top .information .avatar img {
   width: 32px;
@@ -209,7 +214,7 @@ a:hover, a:active {
 .sidebar .social-links {
   list-style: none;
   padding: 0;
-  font-size: 28px;
+  font-size: 22px;
   text-align: center;
 }
 .sidebar .social-links i {
@@ -217,7 +222,7 @@ a:hover, a:active {
 }
 .sidebar .social-links li {
   display: inline;
-  padding: 0 4px;
+  padding: 0 6px;
   line-height: 0;
 }
 .sidebar .social-links a {
@@ -290,12 +295,12 @@ a:hover, a:active {
   font-size: 12px;
 }
 .post .post-footer .meta .info .date {
-  margin-right: 10px;
+  margin-right: 20px;
 }
 .post .post-footer .meta a {
   text-decoration: none;
   color: #bbbbbb;
-  padding-right: 10px;
+  padding-right: 2px;
 }
 .post .post-footer .meta a:hover {
   color: #4786D6;
